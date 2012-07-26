@@ -1,8 +1,5 @@
 #!/usr/bin/ruby
 
-require 'rubygems'
-require 'ruby-debug'
-
 # This demonstration code was developed while working with cocos2d, which puts the 0,0 coordinate at the bottom
 # left.  I have not tested this with other coordinate systems, like the standard iOS coordinate system
 # where 0,0 is the top left.  Additionally, the dimensions of the bounding box are hard-coded here to be 1024x768.
